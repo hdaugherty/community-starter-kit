@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+The **welcome bot** is a *Probot App* that is used to welcome new users to your repositories. This will make new users feel more
+welcome and want to contribute to your project! 
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* The welbome bot is a robot that welcomes new users to your repositories. The bot can be used to:
+  * Welcome new users
+  * Welcome users who create a new issue and/or their first issue
+  * Welcome users who createa pull request and/or their first PR
 
 ## Getting started
 
