@@ -34,5 +34,6 @@ firstPRMergeComment: >
 ```
 
 ### Example Messages
-
-CONFIGS PLACEHOLDER
+* Hello, Welcome to the repo!
+* Welcome to the repo and thanks for your new issue.
+* Hello, Thank you for making your first PR to the repo.
